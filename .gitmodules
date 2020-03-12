@@ -1,0 +1,3 @@
+[submodule "themes/hexo-casper"]
+	path = themes/hexo-casper
+	url = https://github.com/nankeyilu/hexo-theme-casper-fork
