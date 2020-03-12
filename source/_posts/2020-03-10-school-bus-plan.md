@@ -14,7 +14,7 @@ author: 南科一路
 categories:
 - news
 summary: 在学代会中，校园服务办公室提出了2020年度校园巴士运行计划，并将于10日至11日在腾讯文档进行建议征集。
-permalink: school-bus-plan-update.html
+permalink: school-bus-plan-update
 ---
 在学代会中，校园服务办公室提出了2020年度校园巴士运行计划，并将于10日至11日在[腾讯文档](https://docs.qq.com/sheet/DV1RDY2pwQWxXTFVy)进行建议征集。
 

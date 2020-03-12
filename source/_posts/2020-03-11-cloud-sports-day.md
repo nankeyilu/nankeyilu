@@ -13,7 +13,7 @@ author: 南柯一路
 summary: 3月11日晚，南方科技大学体育中心向全体同学发送主题为“南方科技大学2020年春季‘云’运动会”的邮件。
 categories:
 - news
-permalink: cloud-sports-day.html
+permalink: cloud-sports-day
 ---
 ![南科大第五届运动会/南方科技大学](https://i.loli.net/2020/03/12/sJjmT3zaG6FgrwL.jpg)
 <center>南科大第五届运动会/南方科技大学</center>
