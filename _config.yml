@@ -96,6 +96,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: hexo-casper
 
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    hub:
+    content:
+    content_limit: 100
+    content_limit_delim: ' '
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
