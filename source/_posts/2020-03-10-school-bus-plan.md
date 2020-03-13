@@ -4,8 +4,8 @@ date: 2020-03-10 14:02:53
 tags:
 - 新闻
 - 学代会
-cover_img: https://i.loli.net/2020/03/12/9Xmt5gSYOfanRWI.jpg
-feature_img: https://i.loli.net/2020/03/12/9Xmt5gSYOfanRWI.jpg
+cover_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
+feature_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
 description:
 keywords:
 - 校园巴士

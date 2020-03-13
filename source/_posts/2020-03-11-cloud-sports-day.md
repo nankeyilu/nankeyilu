@@ -4,7 +4,7 @@ date: 2020-03-11 19:45:12
 tags:
 - 新闻
 - 运动会
-cover_img: https://i.loli.net/2020/03/12/sJjmT3zaG6FgrwL.jpg
+cover_img: https://cdn.suste.ch/img/2020/03/school-sports-day.jpg
 feature_img:
 description:
 keywords:
@@ -15,7 +15,7 @@ categories:
 - news
 permalink: cloud-sports-day
 ---
-![南科大第五届运动会/南方科技大学](https://i.loli.net/2020/03/12/sJjmT3zaG6FgrwL.jpg)
+![南科大第五届运动会/南方科技大学](https://cdn.suste.ch/img/2020/03/school-sports-day.jpg)
 <center>南科大第五届运动会/南方科技大学</center>
 
 
