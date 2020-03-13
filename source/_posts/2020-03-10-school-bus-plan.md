@@ -26,4 +26,4 @@ permalink: school-bus-plan-update
 
 (封面图/即将进站的校园巴士/Wikimedia Commons)
 
-2020-03-10 / 南柯一路
+2020-03-10 / 南科一路
