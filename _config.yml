@@ -101,9 +101,7 @@ feed:
     path: atom.xml
     limit: 20
     hub:
-    content:
-    content_limit: 1000
-    content_limit_delim: ' '
+    content: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
