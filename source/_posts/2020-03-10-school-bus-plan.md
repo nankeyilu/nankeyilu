@@ -10,7 +10,7 @@ description:
 keywords:
 - 校园巴士
 - 代表
-author: 南科一路
+author: 淳于妮可
 categories:
 - news
 summary: 在学代会中，校园服务办公室提出了2020年度校园巴士运行计划，并将于10日至11日在腾讯文档进行建议征集。
@@ -25,5 +25,3 @@ permalink: school-bus-plan-update
 新的校巴运行方案将于2020年5月15日生效。
 
 (封面图/即将进站的校园巴士/Wikimedia Commons)
-
-2020-03-10 / 南科一路
