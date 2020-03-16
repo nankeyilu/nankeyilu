@@ -17,7 +17,6 @@ categories:
 permalink: sustech-hospital-fight-coronavirus
 ---
 ![南科大校工会发放慰问品/南方科技大学](https://cdn.suste.ch/img/2020/03/prepare-goods.jpg)
-<center>南科大校工会发放慰问品/南方科技大学</center>
 
 近日，南方科技大学附属医院建设办自行[采购](https://biddingoffice.sustc.edu.cn/tender/index/pid/2/sort_id/60)了若干防疫物资用于大学的防疫用途。其中包含N95口罩1500余只，N90口罩10000余只，以及160套防护服和若干体温计等防疫物资。其中，大学向深圳中南兆丰医疗器械用品有限公司购买的N95口罩单价为20元/只。
 

@@ -19,7 +19,6 @@ categories:
 permalink: sustech-student-council
 ---
 ![于2019年4月举行的宿舍搬迁座谈会](https://cdn.suste.ch/img/2020/03/student-council-2019-04.jpg)
-<center>于2019年4月举行的宿舍搬迁座谈会</center>
 
 南方科技大学第二次学生议事会于2020年3月8日举行，会议通过腾讯会议进行。会议中，参会教师代表回答了学生代表提出的若干问题。
 
