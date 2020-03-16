@@ -9,7 +9,7 @@ tags:
 cover_img: https://cdn.suste.ch/img/2020/03/blackboard-failure-scale.png
 feature_img: https://cdn.suste.ch/img/2020/03/blackboard-failure-scale.png
 description:
-summary: 20203月16日上午十时许，大学的Blackboard系统出现故障。
+summary: 2020年3月16日上午十时许，大学的Blackboard系统出现故障。
 keywords:
 - 南方科技大学
 - 线上教学
@@ -20,7 +20,7 @@ categories:
 - news
 permalink: blackboard-service-failure
 ---
-20203月16日上午十时许，大学的Blackboard系统出现故障。依据同学们在信息群和信息中心反馈，登陆blackboard系统时会返回包括但不限于网页服务器的503错误，浏览器的TOO_MANY_REDIRECTS错误和blackboard系统的错误警告。
+2020年3月16日上午十时许，大学的Blackboard系统出现故障。依据同学们在信息群和信息中心反馈，登陆blackboard系统时会返回包括但不限于网页服务器的503错误，浏览器的TOO_MANY_REDIRECTS错误和blackboard系统的错误警告。
 
 ![Blackboard系统网页返回508错误](https://cdn.suste.ch/img/2020/03/blackboard-failure-508-scale.jpg)
 
