@@ -1,6 +1,6 @@
 ---
 title: 转载：我们是南科人，我们能改变南科大
-date: 2019-04-06 09:00:00
+date: 2020-03-16 19:00:00
 tags:
 - 2019年二期宿舍搬迁事件
 - 社论
@@ -18,7 +18,7 @@ categories:
 - history
 permalink: we-are-sustecher-we-can-change-sustech
 ---
-编辑注：这篇文章首先被发布在qq空间上，随后被转载至[sustech.wtf](https://sustech.wtf)，后因sustech.wtf关站，只剩下了 Web Archive 上的存档可以[查看](https://web.archive.org/web/20190405160501/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-neng-gai-bian-nan-ke-da)。然而因时间久远，这篇文章的作者已难以考证。
+编辑注：这篇文章首先被发布在qq空间上，随后于2019年4月5日被转载至[sustech.wtf](https://sustech.wtf)，后因sustech.wtf关站，只剩下了 Web Archive 上的存档可以[查看](https://web.archive.org/web/20190405160501/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-neng-gai-bian-nan-ke-da)。然而因时间久远，这篇文章的作者已难以考证。
 
  我知道，各扫门前雪，做精致的利己主义者，是这个时代大多数人的选择。但是，学生影响学校，学校影响学生，接下来我想谈谈这句话。
 
