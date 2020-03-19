@@ -9,6 +9,7 @@ feature_img:
 description:
 summary: 南方科技大学第二次学生议事会于2020年3月8日举行，会议通过腾讯会议进行。会议中，参会教师代表回答了学生代表提出的若干问题。
 keywords:
+- 南方科技大学
 - 学生议事会
 - blackboard
 - 培养方案

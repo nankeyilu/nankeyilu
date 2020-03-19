@@ -8,6 +8,7 @@ cover_img: https://cdn.suste.ch/img/2020/03/prepare-goods.jpg
 feature_img:
 description:
 keywords:
+- 南方科技大学
 - 采购
 - 新冠肺炎疫情
 author: 淳于妮可

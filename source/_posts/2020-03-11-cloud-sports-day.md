@@ -8,6 +8,7 @@ cover_img: https://cdn.suste.ch/img/2020/03/school-sports-day.jpg
 feature_img:
 description:
 keywords:
+- 南方科技大学
 - 运动会
 author: 淳于妮可
 summary: 3月11日晚，南方科技大学体育中心向全体同学发送主题为“南方科技大学2020年春季‘云’运动会”的邮件。

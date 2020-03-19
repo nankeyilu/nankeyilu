@@ -8,6 +8,7 @@ cover_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
 feature_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
 description:
 keywords:
+- 南方科技大学
 - 校园巴士
 - 代表
 author: 淳于妮可
