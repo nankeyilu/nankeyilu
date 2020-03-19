@@ -2,7 +2,7 @@
 title: 校园服务办公室提出2020年度校园巴士运行计划
 date: 2020-03-10 14:02:53
 tags:
-- 新闻
+- 即时新闻
 - 学代会
 cover_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
 feature_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
@@ -12,7 +12,7 @@ keywords:
 - 代表
 author: 淳于妮可
 categories:
-- news
+- 即时新闻
 summary: 在学代会中，校园服务办公室提出了2020年度校园巴士运行计划，并将于10日至11日在腾讯文档进行建议征集。
 permalink: school-bus-plan-update
 ---

@@ -2,7 +2,7 @@
 title: 学校举行2020年第二次学生议事会，开学时间仍未确定
 date: 2020-03-13 20:02:38
 tags:
-- 新闻
+- 即时新闻
 - 学生议事会
 cover_img: https://cdn.suste.ch/img/2020/03/student-council-2019-04.jpg
 feature_img:
@@ -15,7 +15,7 @@ keywords:
 - 开学时间
 author: 淳于妮可
 categories:
-- news
+- 即时新闻
 permalink: sustech-student-council
 ---
 ![于2019年4月举行的宿舍搬迁座谈会](https://cdn.suste.ch/img/2020/03/student-council-2019-04.jpg)

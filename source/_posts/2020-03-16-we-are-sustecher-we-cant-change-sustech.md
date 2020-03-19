@@ -14,8 +14,8 @@ keywords:
 - 改变
 author: 一位南科人
 categories:
-- editorials
-- history
+- 社论
+- 南科历史
 permalink: we-are-sustecher-we-cant-change-sustech
 ---
 编辑注：这篇文章首先被发布在qq空间上，随后于2019年4月5日被转载至[sustech.wtf](https://sustech.wtf)，后因sustech.wtf关站，只剩下了 Web Archive 上的存档可以[查看](https://web.archive.org/web/20190405160630/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-gai-bian-bu-le-nan-ke-da)。然而因时间久远，这篇文章的作者已难以考证。

@@ -2,7 +2,7 @@
 title: 学校逐步恢复校园正常运作，本科生仍无法返校
 date: 2020-03-14 20:02:38
 tags:
-- 新闻
+- 即时新闻
 - 防疫
 - 返校
 - 开学
@@ -17,7 +17,7 @@ keywords:
 - 开学时间
 author: 淳于妮可
 categories:
-- news
+- 即时新闻
 permalink: sustech-return-to-normal
 ---
 ![第一教学楼，摄于3月14日/南方科技大学宣传部](https://cdn.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg)

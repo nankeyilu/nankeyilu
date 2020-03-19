@@ -2,18 +2,18 @@
 title: 大学自行采购防疫物资，N95口罩20元一只
 date: 2020-03-11 19:09:56
 tags:
-- 新闻
+- 即时新闻
 - 附属医院
 cover_img: https://cdn.suste.ch/img/2020/03/prepare-goods.jpg
 feature_img:
 description:
 keywords:
 - 采购
-- 防疫
+- 新冠肺炎疫情
 author: 淳于妮可
 summary: 近日，南方科技大学附属医院建设办自行采购了若干防疫物质用于大学的防疫用途。
 categories:
-- news
+- 即时新闻
 permalink: sustech-hospital-fight-coronavirus
 ---
 ![南科大校工会发放慰问品/南方科技大学](https://cdn.suste.ch/img/2020/03/prepare-goods.jpg)

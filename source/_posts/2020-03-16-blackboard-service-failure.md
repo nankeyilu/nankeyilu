@@ -2,7 +2,7 @@
 title: 大学Blackboard系统出现故障，服务中断约72小时，严重影响线上教学
 date: 2020-03-16 20:00:00
 tags:
-- 新闻
+- 即时新闻
 - 线上教学
 - Blackboard
 - 故障
@@ -17,7 +17,7 @@ keywords:
 - Blackboard
 author: 淳于妮可
 categories:
-- news
+- 即时新闻
 permalink: blackboard-service-failure
 ---
 2020年3月16日上午十时许，大学的Blackboard系统出现故障。依据同学们在信息群和信息中心反馈，登陆blackboard系统时会返回包括但不限于网页服务器的503错误，浏览器的TOO_MANY_REDIRECTS错误和blackboard系统的错误警告。
