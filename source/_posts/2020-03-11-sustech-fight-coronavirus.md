@@ -1,6 +1,8 @@
 ---
 title: 大学自行采购防疫物资，N95口罩20元一只
 date: 2020-03-11 19:09:56
+isnews: true
+date_updated:
 tags:
 - 即时新闻
 - 附属医院

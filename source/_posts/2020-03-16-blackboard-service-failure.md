@@ -1,6 +1,8 @@
 ---
 title: 大学Blackboard系统出现故障，服务中断约72小时，严重影响线上教学
 date: 2020-03-16 20:00:00
+isnews: true
+date_updated:
 tags:
 - 即时新闻
 - 线上教学

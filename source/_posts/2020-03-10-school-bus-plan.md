@@ -1,6 +1,8 @@
 ---
 title: 校园服务办公室提出2020年度校园巴士运行计划
 date: 2020-03-10 14:02:53
+date_updated:
+isnews: true
 tags:
 - 即时新闻
 - 学代会

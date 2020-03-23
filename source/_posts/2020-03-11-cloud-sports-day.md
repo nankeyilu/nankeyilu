@@ -1,6 +1,8 @@
 ---
 title: 大学体育中心举办2020年春季“云”运动会，引发同学热议
 date: 2020-03-11 19:45:12
+isnews: true
+date_updated:
 tags:
 - 即时新闻
 - 运动会
