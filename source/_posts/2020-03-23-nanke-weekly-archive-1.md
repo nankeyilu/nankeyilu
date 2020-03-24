@@ -8,7 +8,7 @@ tags:
 - 社论
 - 自行车道
 cover_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/01.jpg
-feature_img:
+feature_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/01.jpg
 description:
 summary: 2019年10月12日下午1点多，一条社交动态在网络平台刷屏，一名疑似南科大学生发布了与老师发生口角的视频。作者在动态中表示，南科大自行车道被行人侵占的现象屡禁不止，即使地面上贴了行人禁止标识，还是有行人在自行车道上行走。
 ld_json_summary:
@@ -25,8 +25,9 @@ permalink: nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians
 # 南科大自行车道被行人侵占，高等学府竟无计可施？
 **南鲜平** 2019-10-12
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/01.jpeg)
+![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/01.jpg)
 ![](https://cdn.suste.ch/img/2020/nanke-weekly/banner.png)
+
 2019年10月12日下午1点多，一条社交动态在网络平台刷屏，一名疑似南科大学生发布了与老师发生口角的视频。作者在动态中表示，南科大自行车道被行人侵占的现象屡禁不止，即使地面上贴了行人禁止标识，还是有行人在自行车道上行走。同时，发布的视频中，一男子称自己的身份是老师，不顾劝阻，坚持走在自行车道上。这条说说被广泛传播，截至发稿前，阅读量已经突破2000次。
  
 自行车道被行人侵占，对道路安全造成了严重的威胁。行人不顾自身被撞的危险，也容易造成骑车者翻车。问题长久得不到解决，使矛盾愈演愈烈。甚至有同学认为，在学校已经规定自行车道不可以走行人的前提下，直接撞上去合理合法，公开称“下次我就一车怼死在自行车道上看手机走S型的憨批”。
