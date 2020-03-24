@@ -43,10 +43,32 @@ Tech来了，Tech来了，她在哪里？她在校园里大大小小的英文标
 
 本文原文的存档位于[https://archive.is/8BuZO](https://archive.is/8BuZO)
 
-##往期鲜评
+## 往期鲜评
 [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
 [转载：群组、空间及论坛：南科大“网络治校”现状及反思](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-02-manage-sustech-online)
 [转载：大学该不该建围墙？南科大或许能给出答案](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-03-wall-of-sustech)
 [转载：SUSTC和SUSTech有什么区别？这是个好问题。](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc)
 [转载：静心思考、高质原创——教授为南科大发展“开药方”](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-05-prescription-to-sustech)
 [转载：从0到1的阵痛：南科大突然面向公众全面开放](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public)
+
+
+## 位于原微信文章下的评论
+
+* 还在wifi里
+
+* SUSTC与我们真的有关吗？恐怕除了本科也就读于南科大的研究生之外没有人经历过SUSTC时代吧，那其余人又有什么权利去缅怀一个都没经历过的SUSTC呢？你史可法可以谈反清复明，丫你一曹雪芹跟着掺乎啥呢…总不能逼着05后也去膜吧？
+
+* 貌似很有逻辑却是片面的充满主观色彩的逻辑。“ 所以我们得出两个可能性”，为什么只有这两种可能性？就不能有不知情的新加入的同学好奇到底是什么原因发生了什么事情吗？
+
+    * Author:对哦，谢谢你！
+
+* 本以为是篇雄文，结果..
+    * Author:此雌文也。
+
+* 公众号推文骂人家 眼……，说 比较激进   真还是表扬你
+
+    * Author:本号没有骂任何人眼瞎。但想请您的小学语文老师加强一下阅读能力的教学。
+
+* SUSTech好念一点。英语中tc无法连读，SUSTC只能一个一个字母读，SUSTech就可以当成单词读。
+
+* 因为SUSTC是一个代名词，就如同我向往汉唐的兴盛，不管有没有经历过，都是一种文化记忆。
