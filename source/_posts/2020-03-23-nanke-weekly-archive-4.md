@@ -7,8 +7,8 @@ tags:
 - 南科周末
 - 社论
 - 校名
-cover_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/04.jpg
-feature_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/04.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/04.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/04.jpg
 description:
 summary: 最近发生了一些使大家都不怎么开心的事情。因此引起一些同学的感叹，而感叹又会引出一些疑问，比如有同学就在某交易群中“收SUSTC和SUSTech有什么区别”。我们都知道，SUSTC和SUSTech有很大的区别——连字母数量都不同，区别不可谓不大！
 ld_json_summary:
@@ -27,10 +27,10 @@ permalink: nanke-weekly-archive-04-sustech-or-sustc
 # SUSTC和SUSTech有什么区别？这是个好问题。
 **南鲜平** 2019/12/21
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/04.jpg)
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner.png)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/original/04.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner.png)
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/04/01.png)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/04/01.png)
 
 最近发生了一些使大家都不怎么开心的事情。因此引起一些同学的感叹，而感叹又会引出一些疑问，比如有同学就在某交易群中“收SUSTC和SUSTech有什么区别”。我们都知道，SUSTC和SUSTech有很大的区别——连字母数量都不同，区别不可谓不大！诚然，这两个名字都是南方科技大学英文名的缩写，然而却又区别明显，当年更改，经过了一番覆雨翻云。笔者想，许多同学都知道那段往事，本文不打算讨论了。也很抱歉不能给这位收区别的同学一个答案（毕竟他要收购，怎么能白给）。
  

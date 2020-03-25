@@ -6,8 +6,8 @@ date_updated:
 tags:
 - 2019年二期宿舍搬迁事件
 - 社论
-cover_img: https://cdn.suste.ch/img/2019/04/we-are-sustecher-we-can-change-sustech-scale.jpg
-feature_img: https://cdn.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-bg-scale.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2019/04/we-are-sustecher-we-can-change-sustech-scale.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-bg-scale.jpg
 description:
 summary: 我知道，各扫门前雪，做精致的利己主义者，是这个时代大多数人的选择。但是，学生影响学校，学校影响学生，接下来我想谈谈这句话。
 keywords:

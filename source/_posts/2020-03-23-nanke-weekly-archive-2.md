@@ -7,8 +7,8 @@ tags:
 - 南科周末
 - 社论
 - 自行车道
-cover_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/02.jpg
-feature_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/02.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/02.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/02.jpg
 description:
 summary: 南方科技大学的“网络治校”常被诟病，但是这一现状似乎还难以改变。“网络治校”是近年以来在各大高校出现的现象，泛指校内学生通过各类网络渠道反映问题，借助网友间的广泛转发传播，引起管理人员重视，从而对校园管理进行批评、建议的现象，具有扩散性强、可控性弱、多平台覆盖等传播特点。据网友统计，南科大平均每半个月就会出现一次较大型的“网络治校”事件，好奇者浏览或参与转发的过程被称为“吃瓜”。
 ld_json_summary:
@@ -25,8 +25,8 @@ permalink: nanke-weekly-archive-02-manage-sustech-online
 # 群组、空间及论坛：南科大“网络治校”现状及反思
 **南鲜平** 2019-12-08
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/02.jpg)
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner.png)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/original/02.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner.png)
 
 南方科技大学的“网络治校”常被诟病，但是这一现状似乎还难以改变。“网络治校”是近年以来在各大高校出现的现象，泛指校内学生通过各类网络渠道反映问题，借助网友间的广泛转发传播，引起管理人员重视，从而对校园管理进行批评、建议的现象，具有扩散性强、可控性弱、多平台覆盖等传播特点。据网友统计，南科大平均每半个月就会出现一次较大型的“网络治校”事件，好奇者浏览或参与转发的过程被称为“吃瓜”。
  

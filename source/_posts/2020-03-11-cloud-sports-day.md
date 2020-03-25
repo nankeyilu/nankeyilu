@@ -6,7 +6,7 @@ date_updated:
 tags:
 - 即时新闻
 - 运动会
-cover_img: https://cdn.suste.ch/img/2020/03/school-sports-day.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/03/school-sports-day.jpg
 feature_img:
 description:
 keywords:
@@ -18,7 +18,7 @@ categories:
 - 即时新闻
 permalink: cloud-sports-day
 ---
-![南科大第五届运动会/南方科技大学](https://cdn.suste.ch/img/2020/03/school-sports-day.jpg)
+![南科大第五届运动会/南方科技大学](https://cdn.nanke.suste.ch/img/2020/03/school-sports-day.jpg)
 
 3月11日晚，南方科技大学体育中心向全体同学发送主题为“南方科技大学2020年春季‘云’运动会”的邮件，邮件中提到“为让同学们都能在家锻炼，提高自我免疫力”，大学决定于3月15日至3月22日举办春季“云运动会”。
 

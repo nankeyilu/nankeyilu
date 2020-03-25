@@ -7,8 +7,8 @@ tags:
 - 南科周末
 - 社论
 - 2019校园开放事件
-cover_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/03.jpg
-feature_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/03.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/03.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/03.jpg
 description:
 summary: 南方科技大学作为深圳建设先行示范区的重要高校，从2011年开始，就实行封闭式校园管理。大学该不该有围墙？或许南科大能给出答案。
 ld_json_summary:
@@ -26,10 +26,10 @@ permalink: nanke-weekly-archive-03-wall-of-sustech
 # 大学该不该建围墙？南科大或许能给出答案
 **南鲜平** 2019-12-15
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/03.jpg)
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner.png)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/original/03.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner.png)
 
-![文章截图](https://cdn.suste.ch/img/2020/nanke-weekly/03/01.jpg)
+![文章截图](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/03/01.jpg)
 日前，“识广”公众号发表推文[《曾许诺“不建围墙”的广州大学城，还是向现实低下了头》](https://archive.is/SiX2b)。文中介绍了近年来广州大学城从相互沟通、融合互认，变化为“建墙”的现实。
 
 南方科技大学作为深圳建设先行示范区的重要高校，从2011年开始，就实行封闭式校园管理。大学该不该有围墙？或许南科大能给出答案。

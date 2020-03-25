@@ -6,8 +6,8 @@ isnews: true
 tags:
 - 即时新闻
 - 学代会
-cover_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
-feature_img: https://cdn.suste.ch/img/2020/03/school-bus.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/03/school-bus.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/03/school-bus.jpg
 description:
 keywords:
 - 南方科技大学

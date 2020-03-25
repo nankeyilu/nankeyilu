@@ -6,8 +6,8 @@ date_updated:
 tags:
 - 2019年二期宿舍搬迁事件
 - 社论
-cover_img: https://cdn.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-scale.jpg
-feature_img: https://cdn.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-bg-scale.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-scale.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2019/04/we-are-sustecher-we-cant-change-sustech-bg-scale.jpg
 description:
 summary: 我曾说过，我们是南科人，我们能改变南科大。
 keywords:

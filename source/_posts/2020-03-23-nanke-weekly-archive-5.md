@@ -6,8 +6,8 @@ date_updated:
 tags:
 - 南科周末
 - 社论
-cover_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/05.jpg
-feature_img: https://cdn.suste.ch/img/2020/nanke-weekly/banner/05.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/05.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/05.jpg
 description:
 summary: 南方科技大学（SUSTech）是中国高等教育改革开放的一面旗帜，是我心灵向往的地方。去年，我申请了南科大，拿到了长聘教授聘任信。今年初准备前往报到期间，由于教学课程安排方面的一些问题，最终决定不去了。下面是我写给同事们的“离别信”（出师未捷身先死），欢迎批评。
 ld_json_summary:
@@ -25,8 +25,8 @@ permalink: nanke-weekly-archive-05-prescription-to-sustech
 # 静心思考、高质原创——教授为南科大发展“开药方”
 **王立新博客** 2019/12/28
 
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner/original/05.jpg)
-![](https://cdn.suste.ch/img/2020/nanke-weekly/banner.png)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner/original/05.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/banner.png)
 
 南方科技大学（SUSTech）是中国高等教育改革开放的一面旗帜，是我心灵向往的地方。去年，我申请了南科大，拿到了长聘教授聘任信。今年初准备前往报到期间，由于教学课程安排方面的一些问题，最终决定不去了。下面是我写给同事们的“离别信”（出师未捷身先死），欢迎批评。
 
@@ -76,8 +76,8 @@ SUSTech一定需要高质量的原创性论文，否则“建成高水平研究�
 Li-Xin
 
 **热门评论**
-![](https://cdn.suste.ch/img/2020/nanke-weekly/05/01.jpg)
-![](https://cdn.suste.ch/img/2020/nanke-weekly/05/02.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/05/01.jpg)
+![](https://cdn.nanke.suste.ch/img/2020/nanke-weekly/05/02.jpg)
 
 来源：管理学季刊公众号，原标题《教学影响科研吗？—含泪惜别南科大》，转载自王立新科学网博客，版权归作者所有，仅供交流分享，不代表本号观点。
 

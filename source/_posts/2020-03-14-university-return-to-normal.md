@@ -9,7 +9,7 @@ tags:
 - 返校
 - 开学
 - 餐厅
-cover_img: https://cdn.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg
 feature_img:
 description:
 summary: 校方于3月14日向教职工发送邮件，表示学校将逐步恢复正常生活秩序。邮件包含防止疫情输入及于大学中扩散、全面推进教职工返岗、部分放宽校内防疫要求等内容。
@@ -23,7 +23,7 @@ categories:
 - 即时新闻
 permalink: sustech-return-to-normal
 ---
-![第一教学楼，摄于3月14日/南方科技大学宣传部](https://cdn.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg)
+![第一教学楼，摄于3月14日/南方科技大学宣传部](https://cdn.nanke.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg)
 
 校方于3月14日向教职工发送邮件，表示学校将逐步恢复正常生活秩序。邮件包含防止疫情输入及于大学中扩散、全面推进教职工返岗、部分放宽校内防疫要求等内容。
 

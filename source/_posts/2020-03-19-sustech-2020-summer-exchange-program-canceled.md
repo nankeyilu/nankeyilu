@@ -6,8 +6,8 @@ date_updated:
 tags:
 - 即时新闻
 - 海外学习
-cover_img: https://cdn.suste.ch/img/2020/03/sustech-2020-summer-exchange-program-canceled-scale.jpg
-feature_img: https://cdn.suste.ch/img/2020/03/sustech-2020-summer-exchange-program-canceled-scale.jpg
+cover_img: https://cdn.nanke.suste.ch/img/2020/03/sustech-2020-summer-exchange-program-canceled-scale.jpg
+feature_img: https://cdn.nanke.suste.ch/img/2020/03/sustech-2020-summer-exchange-program-canceled-scale.jpg
 description:
 summary: 南方科技大学国际合作部于2020年3月19日晚向全体本科生发送邮件，提到因国际新冠肺炎疫情形势，将取消2020年度暑期的海外学习项目。
 ld_json_summary: 南方科技大学国际合作部于2020年3月19日晚向全体本科生发送邮件，提到因国际新冠肺炎疫情形势，到将取消2020年度暑期的海外学习项目。邮件提到，国际合作部将会撤回所有仅向大学国际合作部申请的项目；

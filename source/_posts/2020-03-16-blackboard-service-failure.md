@@ -8,8 +8,8 @@ tags:
 - 线上教学
 - Blackboard
 - 故障
-cover_img: https://cdn.suste.ch/img/2020/03/blackboard-failure-scale-update2.png
-feature_img: https://cdn.suste.ch/img/2020/03/blackboard-failure-scale-update2.png
+cover_img: https://cdn.nanke.suste.ch/img/2020/03/blackboard-failure-scale-update2.png
+feature_img: https://cdn.nanke.suste.ch/img/2020/03/blackboard-failure-scale-update2.png
 description:
 summary: 2020年3月16日上午十时许，大学的Blackboard系统出现故障。
 keywords:
@@ -24,7 +24,7 @@ permalink: blackboard-service-failure
 ---
 2020年3月16日上午十时许，大学的Blackboard系统出现故障。依据同学们在信息群和信息中心反馈，登陆blackboard系统时会返回包括但不限于网页服务器的503错误，浏览器的TOO_MANY_REDIRECTS错误和blackboard系统的错误警告。
 
-![Blackboard系统网页返回508错误](https://cdn.suste.ch/img/2020/03/blackboard-failure-508-scale.jpg)
+![Blackboard系统网页返回508错误](https://cdn.nanke.suste.ch/img/2020/03/blackboard-failure-508-scale.jpg)
 
 跟据信息中心老师的反馈，本次故障的原因或为运行Blackboard系统的部分服务器出现了故障。
 
