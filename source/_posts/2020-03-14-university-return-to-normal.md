@@ -5,7 +5,7 @@ isnews: true
 date_updated:
 tags:
 - 即时新闻
-- 防疫
+- 新冠肺炎疫情
 - 返校
 - 开学
 - 餐厅
