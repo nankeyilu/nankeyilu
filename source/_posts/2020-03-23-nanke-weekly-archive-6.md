@@ -17,9 +17,9 @@ keywords:
 - 开放
 author: 南鲜平/南科周末
 categories:
-- 社论
-- 南科历史
-- 南科周末
+- [南科周末]
+- [深度, 社论]
+- [深度, 南科历史]
 permalink: nanke-weekly-archive-06-sustech-open-to-public
 ---
 

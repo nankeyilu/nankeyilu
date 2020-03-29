@@ -17,9 +17,9 @@ keywords:
 - 药方
 author: 王立新博客/南科周末
 categories:
-- 社论
-- 南科历史
-- 南科周末
+- [南科周末]
+- [深度, 社论]
+- [深度, 南科历史]
 permalink: nanke-weekly-archive-05-prescription-to-sustech
 ---
 # 静心思考、高质原创——教授为南科大发展“开药方”

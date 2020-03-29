@@ -18,9 +18,9 @@ keywords:
 - 围墙
 author: 南鲜平/南科周末
 categories:
-- 社论
-- 南科历史
-- 南科周末
+- [南科周末]
+- [深度, 社论]
+- [深度, 南科历史]
 permalink: nanke-weekly-archive-03-wall-of-sustech
 ---
 # 大学该不该建围墙？南科大或许能给出答案

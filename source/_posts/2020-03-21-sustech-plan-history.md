@@ -18,7 +18,7 @@ keywords:
 - 校园规划
 author: 妮可键盘建筑兴趣协会
 categories:
-- 深度
+- [深度, 南科历史]
 permalink: sustech-plan-history
 ---
 

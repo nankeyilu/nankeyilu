@@ -17,9 +17,9 @@ keywords:
 - 自行车道
 author: 南鲜平/南科周末
 categories:
-- 社论
-- 南科历史
-- 南科周末
+- [南科周末]
+- [深度, 社论]
+- [深度, 南科历史]
 permalink: nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians
 ---
 # 南科大自行车道被行人侵占，高等学府竟无计可施？
