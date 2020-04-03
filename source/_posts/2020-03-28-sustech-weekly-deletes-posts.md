@@ -9,7 +9,7 @@ tags:
 cover_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/sustech-weekly-deletes-post.png
 feature_img: https://cdn.nanke.suste.ch/img/2020/nanke-weekly/sustech-weekly-deletes-post.png
 description:
-summary: 微信公众号《南科周末》于3月28日突然删除包括全部《南科新鲜事》和部分《鲜评》在内的推送文章。截至28日下午，未有任何人士宣称对此事负责。
+summary: 微信公众号《南科周末》于3月28日突然删除包括全部《南科新鲜事》和部分《鲜评》在内的推送文章。截至28日下午，未有任何人士对此作出解释。
 ld_json_summary:
 keywords:
 - 南方科技大学
@@ -22,7 +22,7 @@ categories:
 - [南科周末]
 permalink: sustech-weekly-deletes-posts
 ---
-微信公众号《南科周末》于3月28日突然删除包括全部《南科新鲜事》和部分《鲜评》在内的推送文章。微信显示这些文章“已被发布者删除”。截至28日下午，未有任何人士宣称对此事负责。
+微信公众号《南科周末》于3月28日突然删除包括全部《南科新鲜事》和部分《鲜评》在内的推送文章。微信显示这些文章“已被发布者删除”。截至28日下午，未有任何人士对此作出解释。
 
 在知乎上，有人提出“怎么看待南科大对学生公众号“南科周末”发起调查？”的[问题](https://archive.is/mRXbT)，提问者提到**有老师对该公众号“不满意”，于是查出了公众号的运营者。**
 
@@ -34,10 +34,10 @@ permalink: sustech-weekly-deletes-posts
 
 ## 附件：《南科周末》所删除的部分文章：
 ### 鲜评：
-* [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
-* [转载：群组、空间及论坛：南科大“网络治校”现状及反思](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-02-manage-sustech-online)
-* [转载：SUSTC和SUSTech有什么区别？这是个好问题。](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc)
-* [转载：从0到1的阵痛：南科大突然面向公众全面开放](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public)
+* [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
+* [转载：群组、空间及论坛：南科大“网络治校”现状及反思](/2020/03/23/nanke-weekly-archive-02-manage-sustech-online)
+* [转载：SUSTC和SUSTech有什么区别？这是个好问题。](/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc)
+* [转载：从0到1的阵痛：南科大突然面向公众全面开放](/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public)
 
 ### 南科新鲜事：
 * [南科幼儿园开芯片课 大学生不懂慧园英文 | 南科新鲜事第1期](https://archive.is/74EaG)
