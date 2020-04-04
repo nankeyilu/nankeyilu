@@ -41,12 +41,11 @@ permalink: nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians
 本文原文的存档位于[https://archive.is/ox9ez](https://archive.is/ox9ez)
 
 ## 往期鲜评
-[转载：南科大自行车道被行人侵占，高等学府竟无计可施？](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
-[转载：群组、空间及论坛：南科大“网络治校”现状及反思](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-02-manage-sustech-online)
-[转载：大学该不该建围墙？南科大或许能给出答案](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-03-wall-of-sustech)
-[转载：SUSTC和SUSTech有什么区别？这是个好问题。](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc)
-[转载：静心思考、高质原创——教授为南科大发展“开药方”](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-05-prescription-to-sustech)
-[转载：从0到1的阵痛：南科大突然面向公众全面开放](https://nanke.suste.ch/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public)
+[转载：群组、空间及论坛：南科大“网络治校”现状及反思](/2020/03/23/nanke-weekly-archive-02-manage-sustech-online/)
+[转载：大学该不该建围墙？南科大或许能给出答案](/2020/03/23/nanke-weekly-archive-03-wall-of-sustech/)
+[转载：SUSTC和SUSTech有什么区别？这是个好问题。](/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc/)
+[转载：静心思考、高质原创——教授为南科大发展“开药方”](/2020/03/23/nanke-weekly-archive-05-prescription-to-sustech/)
+[转载：从0到1的阵痛：南科大突然面向公众全面开放](/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public/)
 
 ## 位于原微信文章下的评论
 
