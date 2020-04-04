@@ -32,6 +32,11 @@ permalink: sustech-weekly-deletes-posts
 
 《南科周末》是南科大内由同学创办的校园自媒体，其口号是“不错过南科大的每件新鲜事”，其包括《南科新鲜事》，《鲜评》，《图槽》等栏目，并一般推送与南科大师生相关的事件。《南科周末》曾获2019年12月南科大校内微信公众号（清博指数）排名[第三](https://archive.is/YPcZK)。
 
+## 4月4日更新
+![公众号的更名记录/微信公众号平台](https://cdn.nanke.suste.ch/img/2020/03/sustech-weekly-change-name.png)
+“南科周末”公众号于4月4日更名为“高校周末”，并删除先前的全部文章。
+
+
 ## 附件：《南科周末》所删除的部分文章：
 ### 鲜评：
 * [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
