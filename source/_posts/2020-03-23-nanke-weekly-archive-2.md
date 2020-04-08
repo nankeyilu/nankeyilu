@@ -16,6 +16,7 @@ keywords:
 - 南方科技大学
 - 网络治校
 author: 南鲜平/南科周末
+author_url: https://cdn.nanke.suste.ch/img/2020/niko-weekly/niko-logo-scaled.jpg
 categories:
 - [南科周末]
 - [深度, 社论]
