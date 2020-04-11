@@ -30,7 +30,7 @@ permalink: blackboard-service-failure
 
 Blackboard系统是南方科技大学目前使用的线上教学系统之一，也是在远程教学期间学校推荐的教学系统。大学大部分课程均使用Blackboard系统分发课件，教学视频。提交作业和举行测验。
 
-截止发稿时（3月16日18时），Blackboard系统仍未恢复正常。
+截至发稿时（3月16日18时），Blackboard系统仍未恢复正常。
 
 ## 3月17日更新
 
