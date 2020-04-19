@@ -9,7 +9,7 @@ description: '以学生的视角，记录榕安国南科郡里那些举足轻重
 keywords:
 author: 淳于妮可
 language: zh
-timezone: ''
+timezone: 'Asia/Shanghai'
 blog_preview_image: /images/blog-feature.png
 
 # URL
@@ -78,7 +78,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
+use_date_for_updated: true
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -102,6 +102,8 @@ feed:
     limit: 20
     hub:
     content: true
+    template:
+      - ./source/_atom-template.xml
 
 image_caption:
   enable: true #false to disable

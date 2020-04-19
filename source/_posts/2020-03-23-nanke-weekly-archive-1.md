@@ -2,7 +2,7 @@
 title: 转载：南科大自行车道被行人侵占，高等学府竟无计可施？
 date: 2020-03-23 23:00:00
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

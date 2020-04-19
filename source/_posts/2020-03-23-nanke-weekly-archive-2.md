@@ -2,7 +2,7 @@
 title: 转载：群组、空间及论坛：南科大“网络治校”现状及反思
 date: 2020-03-23 23:00:01
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

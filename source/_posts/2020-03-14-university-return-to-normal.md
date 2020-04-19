@@ -2,7 +2,7 @@
 title: 学校逐步恢复校园正常运作，本科生仍无法返校
 date: 2020-03-14 20:02:38
 isnews: true
-date_updated:
+updated:
 tags:
 - 即时新闻
 - 新冠肺炎疫情

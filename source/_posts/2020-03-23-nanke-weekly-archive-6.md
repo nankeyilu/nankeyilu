@@ -2,7 +2,7 @@
 title: 转载：从0到1的阵痛：南科大突然面向公众全面开放
 date: 2020-03-23 23:00:05
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

@@ -2,7 +2,7 @@
 title: 转载：静心思考、高质原创——教授为南科大发展“开药方”
 date: 2020-03-23 23:00:04
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

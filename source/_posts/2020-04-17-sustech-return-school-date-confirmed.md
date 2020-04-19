@@ -2,7 +2,7 @@
 title: 大学公布学生返校安排，除2016级外暂不安排本科生返校
 date: 2020-04-17 21:30:00
 isnews: true
-date_updated:
+updated:
 tags:
 - 即时新闻
 - 新冠肺炎疫情

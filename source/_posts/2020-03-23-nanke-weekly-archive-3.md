@@ -2,7 +2,7 @@
 title: 转载：大学该不该建围墙？南科大或许能给出答案
 date: 2020-03-23 23:00:02
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

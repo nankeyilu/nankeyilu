@@ -2,7 +2,7 @@
 title: 转载：SUSTC和SUSTech有什么区别？这是个好问题。
 date: 2020-03-23 23:00:03
 isnews:
-date_updated:
+updated:
 tags:
 - 南科周末
 - 社论

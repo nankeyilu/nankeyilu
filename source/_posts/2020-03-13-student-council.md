@@ -2,7 +2,7 @@
 title: 学校举行2020年第二次学生议事会，开学时间仍未确定
 date: 2020-03-13 20:02:38
 isnews: true
-date_updated:
+updated:
 tags:
 - 即时新闻
 - 学生议事会

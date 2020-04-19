@@ -2,7 +2,7 @@
 title: 浅谈南科大建筑规划史
 date: 2020-03-21 18:00:00
 isnews: 
-date_updated:
+updated:
 tags:
 - 深度
 - 规划

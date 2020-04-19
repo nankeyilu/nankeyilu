@@ -2,7 +2,7 @@
 title: 南科档案馆 SUSTC Archive：一个健康的校园不应该只有一种声音
 date: 2020-04-11 09:00:00
 isnews: true
-date_updated:
+updated:
 tags:
 - 深度
 - 采访

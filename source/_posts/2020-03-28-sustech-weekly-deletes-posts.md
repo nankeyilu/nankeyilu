@@ -2,7 +2,7 @@
 title: 微信公众号《南科周末》删除大量推送文章
 date: 2020-03-28 18:00:00
 isnews: true
-date_updated:
+updated:
 tags:
 - 即时新闻
 - 南科周末

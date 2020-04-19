@@ -2,7 +2,7 @@
 title: 转载：我们是南科人，我们能改变南科大
 date: 2020-03-16 19:00:00
 isnews: 
-date_updated:
+updated:
 tags:
 - 2019年二期宿舍搬迁事件
 - 社论
