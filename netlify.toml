@@ -1,3 +1,39 @@
 [build]
   command = "git submodule update -f --init --recursive --depth 1 && hexo generate"
   publish = "public/"
+
+# For content other than static assets
+[[headers]]
+  for = "/*"
+  [headers.values]
+    cache-control = '''
+    max-age=360,
+    s-maxage=180,
+    stale-while-revalidate=600'''
+
+# Netlify's syntax seems a bit inflexible, so duplicate a few times
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    cache-control = "max-age=2629800"
+[[headers]]
+  for = "/photoswipe/*"
+  [headers.values]
+    cache-control = "max-age=2629800"
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    cache-control = "max-age=2629800"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    cache-control = '''
+    max-age=86400,
+    s-maxage=600'''
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    cache-control = '''
+    max-age=86400,
+    s-maxage=600'''
