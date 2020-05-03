@@ -100,7 +100,7 @@ feed:
     type: atom
     path: atom.xml
     limit: 40
-    hub:
+    hub: https://pubsubhubbub.appspot.com/
     content: true
     template:
       - ./source/_atom-template.xml
