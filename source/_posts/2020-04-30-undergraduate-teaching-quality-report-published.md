@@ -19,6 +19,7 @@ author: 淳于妮可
 categories:
 - [即时新闻, 周报]
 permalink: undergraduate-teaching-quality-report-published
+uuid: bf45c22a-4090-428b-a0e7-f2a862e4bf58
 ---
 
 近日，大学于官方网站的[信息公开栏目](https://www.sustech.edu.cn/zh/xinxigongkai.html)公开了[2018-2019学年本科教学质量报告](https://www.sustech.edu.cn/wp-content/uploads/%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A62018-2019%E5%AD%A6%E5%B9%B4%E6%9C%AC%E7%A7%91%E6%95%99%E5%AD%A6%E8%B4%A8%E9%87%8F%E6%8A%A5%E5%91%8A.pdf)。报告介绍了2018-2019年度大学的各方面情况。

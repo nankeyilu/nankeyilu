@@ -17,6 +17,7 @@ summary: 3月11日晚，南方科技大学体育中心向全体同学发送主�
 categories:
 - 即时新闻
 permalink: cloud-sports-day
+uuid: 6b98adad-5a1f-4d1f-9e29-90de6d3e39aa
 ---
 ![南科大第五届运动会/南方科技大学](https://cdn.nanke.suste.ch/img/2020/03/school-sports-day.jpg)
 

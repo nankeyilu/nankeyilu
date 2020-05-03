@@ -22,6 +22,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-02-manage-sustech-online
+uuid: 038214a9-d905-44fa-acbf-ae1512b87e3d
 ---
 # 群组、空间及论坛：南科大“网络治校”现状及反思
 **南鲜平** 2019-12-08

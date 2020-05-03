@@ -21,6 +21,7 @@ author: 淳于妮可
 categories:
 - 即时新闻
 permalink: blackboard-service-failure
+uuid: a325f4fe-82ee-4c5a-8d86-2e09ad0bef3c
 ---
 2020年3月16日上午十时许，大学的Blackboard系统出现故障。依据同学们在信息群和信息中心反馈，登陆blackboard系统时会返回包括但不限于网页服务器的503错误，浏览器的TOO_MANY_REDIRECTS错误和blackboard系统的错误警告。
 

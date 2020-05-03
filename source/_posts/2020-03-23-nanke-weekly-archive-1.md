@@ -22,6 +22,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians
+uuid: cb3fa292-ea28-4267-9b72-bd0a69dba586
 ---
 # 南科大自行车道被行人侵占，高等学府竟无计可施？
 **南鲜平** 2019-10-12

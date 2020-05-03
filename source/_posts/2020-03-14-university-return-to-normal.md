@@ -22,6 +22,7 @@ author: 淳于妮可
 categories:
 - 即时新闻
 permalink: sustech-return-to-normal
+uuid: 367b8f74-6a2c-468e-a19d-e1b4bb249ed1
 ---
 ![第一教学楼，摄于3月14日/南方科技大学宣传部](https://cdn.nanke.suste.ch/img/2020/03/banner-sustech-return-to-normal-upload.jpg)
 

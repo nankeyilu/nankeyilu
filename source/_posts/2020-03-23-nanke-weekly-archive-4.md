@@ -23,6 +23,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-04-sustech-or-sustc
+uuid: 5611b300-7fb6-4284-9ca3-25005510360e
 ---
 
 # SUSTC和SUSTech有什么区别？这是个好问题。

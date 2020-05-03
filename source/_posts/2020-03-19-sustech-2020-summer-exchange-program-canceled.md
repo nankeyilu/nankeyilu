@@ -19,6 +19,7 @@ author: 淳于妮可
 categories:
 - 即时新闻
 permalink: sustech-2020-summer-exchange-program-canceled
+uuid: 4d2726a5-feb0-46ad-9a7f-af0c0ae88b0d
 ---
 南方科技大学国际合作部于2020年3月19日晚向全体本科生发送邮件，提到因国际新冠肺炎疫情形势，到将取消2020年度暑期的海外学习项目。
 

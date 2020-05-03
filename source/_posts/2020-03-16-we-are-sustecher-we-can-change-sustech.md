@@ -19,6 +19,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: we-are-sustecher-we-can-change-sustech
+uuid: d7f49902-55ba-4d6a-99b3-bfc4bb37f666
 ---
 编辑注：这篇文章首先被发布在qq空间上，随后于2019年4月5日被转载至[sustech.wtf](https://sustech.wtf)，后因sustech.wtf关站，只剩下了 Web Archive 上的存档可以[查看](https://web.archive.org/web/20190405160501/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-neng-gai-bian-nan-ke-da)。然而因时间久远，这篇文章的作者已难以考证。
 

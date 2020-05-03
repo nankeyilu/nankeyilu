@@ -22,6 +22,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-06-sustech-open-to-public
+uuid: fe24c050-9495-4544-a523-577115a0fcf3
 ---
 
 # 从0到1的阵痛：南科大突然面向公众全面开放

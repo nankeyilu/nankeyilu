@@ -22,6 +22,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-05-prescription-to-sustech
+uuid: 29eaa15d-aeb3-4fb0-8402-3e1ee7265043
 ---
 # 静心思考、高质原创——教授为南科大发展“开药方”
 **王立新博客** 2019/12/28

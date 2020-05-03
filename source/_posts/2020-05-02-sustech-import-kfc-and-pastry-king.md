@@ -21,6 +21,7 @@ author: 淳于妮可
 categories:
 - 即时新闻
 permalink: sustech-import-kfc-and-pastry-king
+uuid: a744abe4-3765-4910-960b-d8ba1a11418e
 ---
 
 近日南方科技大学招标办公室网站发布了两则招商公告：[《南方科技大学湖畔学生餐厅一楼肯德基门店招商项目公告》](https://biddingoffice.sustc.edu.cn/importNotice/news/id/4966/pid/26)和[《南方科技大学湖畔学生餐厅一楼面点王门店招商项目公告》](https://biddingoffice.sustc.edu.cn/importNotice/news/sort_id/44/id/4967/pid/26)。

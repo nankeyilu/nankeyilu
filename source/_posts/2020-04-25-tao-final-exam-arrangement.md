@@ -20,6 +20,7 @@ author: 淳于妮可
 categories:
 - [即时新闻, 周报]
 permalink: tao-final-exam-arrangement
+uuid: e5318f34-71c9-45ee-bbef-ddd9242910b2
 ---
 
 大学教学工作部于本周四（23日）向全体教学秘书发邮件征集本学期线下期末考试的需求。\

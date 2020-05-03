@@ -23,6 +23,7 @@ categories:
 - [深度, 社论]
 - [深度, 南科历史]
 permalink: nanke-weekly-archive-03-wall-of-sustech
+uuid: 1a088309-90e6-46fe-b23c-a293c6ce8bf4
 ---
 # 大学该不该建围墙？南科大或许能给出答案
 **南鲜平** 2019-12-15

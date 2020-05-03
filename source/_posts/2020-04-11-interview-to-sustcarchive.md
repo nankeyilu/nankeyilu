@@ -20,6 +20,7 @@ author: 淳于妮可
 categories:
 - [深度]
 permalink: interview-to-sustcarchive
+uuid: bcd3bf95-7b43-4cc0-8334-fbb18cec6477
 ---
 
 # 南科档案馆 SUSTC Archive：一个健康的校园不应该只有一种声音

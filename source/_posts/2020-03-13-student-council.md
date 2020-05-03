@@ -20,6 +20,7 @@ author: 淳于妮可
 categories:
 - 即时新闻
 permalink: sustech-student-council
+uuid: a5901eed-243c-4ae3-aa6f-fe960503bb18
 ---
 ![于2019年4月举行的宿舍搬迁座谈会](https://cdn.nanke.suste.ch/img/2020/03/student-council-2019-04.jpg)
 

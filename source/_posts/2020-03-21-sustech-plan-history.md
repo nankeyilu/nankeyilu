@@ -20,6 +20,7 @@ author: 妮可键盘建筑兴趣协会
 categories:
 - [深度, 南科历史]
 permalink: sustech-plan-history
+uuid: b0f7c5ae-0704-4992-9325-c409e273bcb4
 ---
 
 # 浅谈南科大建筑规划史

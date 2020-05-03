@@ -18,6 +18,7 @@ summary: 近日，南方科技大学附属医院建设办自行采购了若干�
 categories:
 - 即时新闻
 permalink: sustech-hospital-fight-coronavirus
+uuid: b02f9c48-3c02-478e-9d3a-c11b27c07358
 ---
 ![南科大校工会发放慰问品/南方科技大学](https://cdn.nanke.suste.ch/img/2020/03/prepare-goods.jpg)
 

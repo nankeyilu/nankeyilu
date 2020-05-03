@@ -19,6 +19,7 @@ author_url: https://cdn.nanke.suste.ch/img/nanke-assets/author_avatar/anonymous.
 categories:
 - [深度, 社论]
 permalink: contribution-what-is-human
+uuid: 21f3610f-5491-40fa-beda-24028d9e1ef9
 ---
 # 人是什么？
 
