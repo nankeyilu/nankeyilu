@@ -99,7 +99,7 @@ theme: hexo-casper
 feed:
     type: atom
     path: atom.xml
-    limit: 20
+    limit: 40
     hub:
     content: true
     template:
