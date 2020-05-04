@@ -1,22 +1,29 @@
-const request = require('request');
+const fetch = require('node-fetch')
 
-exports.handler = function(event, context, callback) {
-  var e = JSON.parse(event.body);
-  if (e.payload.context == "production") {
-    console.log("[google-pubsubhubbub] Preparing to ping pubsubhubbub.appspot.com")
-    request.post({
-      url: "http://pubsubhubbub.appspot.com/",
-      form: {"hub.mode": "publish", "hub.url": "https://nanke.suste.ch/atom.xml"}
-      },
-      function (error, response, body){
-        if (!error && response.statusCode == 204) {
-          console.log("[google-pubsubhubbub] ping successful");
-          callback(null, {statusCode: 204});
-        } else {
-          console.log("[google-pubsubhubbub] ping failed:", error);
-          callback(error, {statusCode: response.statusCode});
-        }
-      }
-    );
+const feedUrl = 'https://nanke.suste.ch/atom.xml'
+exports.handler = async (event, context) => {
+  let response
+  const params = new URLSearchParams()
+  params.append("hub.mode", "publish")
+  params.append("hub.url", feedUrl)
+
+  console.log("[google-pubsubhubbub] Preparing to ping pubsubhubbub.appspot.com")
+  response = await fetch("http://pubsubhubbub.appspot.com/", {method: 'POST', body: params})
+  if (!response.ok) {
+    console.log("[google-pubsubhubbub] ping failed:", response.status, response.body)
+    return {
+      statusCode: response.status,
+      body: JSON.stringify({
+        error: response.body
+      })
+    }
+  }
+
+  console.log("[google-pubsubhubbub] ping succeeded");
+  return {
+    statusCode: response.status,
+    body: JSON.stringify({
+      data: response.body
+    })
   }
 }

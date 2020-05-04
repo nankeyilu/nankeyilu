@@ -25,6 +25,6 @@
     "hexo-image-caption": "^0.1.1",
     "hexo-renderer-marked": "^2.0.0",
     "hexo-server": "^1.0.0",
-    "request": "^2.88.0"
+    "node-fetch": "^2.6.0"
   }
 }
