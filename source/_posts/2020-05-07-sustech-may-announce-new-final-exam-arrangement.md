@@ -3,12 +3,12 @@ title: 大学或将允许同学自行选择期末考核方式
 date: 2020-05-07 13:30:00
 isnews: true
 noindex:
-updated:
+updated: 2020-05-07 17:00:00
 tags:
 - 即时新闻
 - 期末考试
-cover_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-final-exam-arrangement-banner.png
-feature_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-final-exam-arrangement-banner.png
+cover_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/banner.png
+feature_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/banner.png
 description:
 summary: 知情人士称本学期的期末考试安排或将在近期公布，将允许同学自行选择线下考试（计入GPA）或考查（P/F二级制度，不计入GPA）。
 ld_json_summary:
@@ -31,3 +31,9 @@ uuid: fc9a1e88-a341-4c46-8ead-166b62dd5fa1
 安排还提到，**同学需在5月15日前自行选定课程的期末考试方式，选择后不可更改**。但无法返回学校的毕业班学生经过批准后只可选择考查（P/F）方式。
 
 毕业班的线下考试仍会按照原校历上的计划，于6月8日至6月21日进行。
+
+![期末考试安排的相关PPT/知情人士供图，南科一路整理](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/leak_ppt.png)
+
+## 5月7日17:00更新
+
+疑似具有官方背景的“南科先知”公众号[在今日16:10报道了此消息](https://mp.weixin.qq.com/s/FpRC9pmuYeEB3AQfVx1XoQ)。
