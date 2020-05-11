@@ -3,14 +3,14 @@ title: 大学或将允许同学自行选择期末考核方式
 date: 2020-05-07 13:30:00
 isnews: true
 noindex:
-updated: 2020-05-07 17:00:00
+updated: 2020-05-11 11:00:00
 tags:
 - 即时新闻
 - 期末考试
 cover_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/banner.png
 feature_img: https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/banner.png
 description:
-summary: 知情人士称本学期的期末考试安排或将在近期公布，将允许同学自行选择线下考试（计入GPA）或考查（P/F二级制度，不计入GPA）。
+summary: 知情人士称，本学期的期末考试安排或将在近期公布，将允许同学自行选择线下考试（计入GPA）或考查（P/F二级制度，不计入GPA）。
 ld_json_summary:
 keywords:
 - 南方科技大学
@@ -37,3 +37,16 @@ uuid: fc9a1e88-a341-4c46-8ead-166b62dd5fa1
 ## 5月7日17:00更新
 
 疑似具有官方背景的“南科先知”公众号[在今日16:10报道了此消息](https://mp.weixin.qq.com/s/FpRC9pmuYeEB3AQfVx1XoQ)。
+
+
+
+## 5月11日11:00更新
+
+据你[科周末（原南科周末）报道](https://mp.weixin.qq.com/s/wEVI2LfpgMYTp-gxgNGbuA)，大学正式发布考试方案。正式发布的方案与先前的草案基本一致，但将同学自行选定考核方式的期限延长至5月18日，承诺书提交时限延长至5月29日。
+
+![期末考试安排的相关文件/你科周末/南方科技大学](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/announcement_p1.png)
+
+![期末考试安排的相关文件/你科周末/南方科技大学](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/announcement_p2.png)
+
+
+
