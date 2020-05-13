@@ -3,7 +3,7 @@ title: 大学或将允许同学自行选择期末考核方式
 date: 2020-05-07 13:30:00
 isnews: true
 noindex:
-updated: 2020-05-11 11:00:00
+updated: 2020-05-12 18:00:00
 tags:
 - 即时新闻
 - 期末考试
@@ -48,5 +48,9 @@ uuid: fc9a1e88-a341-4c46-8ead-166b62dd5fa1
 
 ![期末考试安排的相关文件/你科周末/南方科技大学](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/announcement_p2.png)
 
+## 5月12日18:00更新
 
+大学已开始在Blackboard系统上开展针对同学的考核方式意愿调查。但相关调查只针对毕业班同学进行。
+
+![Blackboard系统上的考核方式意愿调查/大学信息交流群](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/survey_on_blackboard.png)
 
