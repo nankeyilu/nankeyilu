@@ -3,7 +3,7 @@ title: 强行解读《塘浪》
 date: 2020-05-13 16:30:00
 isnews:
 noindex:
-updated:
+updated: 2020-05-13 20:55:00
 tags:
 - 杂谈
 - 塘浪
@@ -28,6 +28,9 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 **原视频：[https://www.bilibili.com/video/BV1bQ4y1A72y](https://www.bilibili.com/video/BV1bQ4y1A72y)**
 
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=710694302&bvid=BV1bQ4y1A72y&page=1&as_wide=1&high_quality=1&danmaku=1" frameborder="no" scrolling="no" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" allowfullscreen referrerpolicy="no-referrer" importance="low" loading="lazy"></iframe>
+</div>
 
 
 > 那些口口声声
@@ -37,7 +40,7 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 > 我看着你们
 > 满怀羡慕
 
-”为SUSTC正名“应该是影射学校未广泛征集同学意见，只通过行政会议就更改了学校的英文名称。
+”为SUSTC正名“应该是影射学校未广泛征集同学意见、只通过行政会议就更改了学校的英文名称的往事。
 
 
 
@@ -116,9 +119,7 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 >我看着你们
 >满怀敬意
-
-
-
+>
 >向你们的搞事态度致敬
 >你们正在把书院的变成院系的
 >把2+2的变成0+4的
@@ -135,9 +136,7 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 >你们把自己的热爱
 >变成一个强加于成千上万人的事业
-
-
-
+>
 >弱小的人
 >才害怕喝茶和谈话
 
@@ -150,17 +149,11 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 
 >向你们的勇气致敬
-
-
-
-
+>
 >小人同而不和
 >君子美美与共
 >和而不同
-
-
-
-
+>
 >更年轻的学生
 >容得下更多元的火警、搬迁和献花
 
@@ -174,15 +167,9 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 
 >终于有一天我发现
-
-
-
-
+>
 >不只是我在束缚你们
-
-
-
-
+>
 >你们也在启发我
 >怎样去更好的行政
 
@@ -192,16 +179,10 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 >那些抱怨一代不如一代的人
 >应该看着你们
 >像我一样
-
-
-
-
+>
 >我看着你们
 >满怀感激
-
-
-
-
+>
 >因为你们
 >这个学校会有更多的新生宿舍
 
@@ -224,10 +205,7 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 
 >如果你们依然需要我的祝福
 >那么
-
-
-
-
+>
 >奔涌吧，塘浪！
 
 ![](https://cdn.nanke.suste.ch/img/2020/05/unofficial-interpretation-of-tanglang/奔涌吧，塘浪.jpg)
@@ -237,4 +215,3 @@ uuid: 4cf322ee-ad45-4b42-abee-15fcf4699c07
 ![](https://cdn.nanke.suste.ch/img/2020/05/unofficial-interpretation-of-tanglang/和妮可人一起.jpg)
 
 这句不用解读了，大家都懂。
-
