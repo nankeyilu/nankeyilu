@@ -3,7 +3,7 @@ title: 学生递交联名信，期望教工部修改期末考核方案
 date: 2020-05-14 08:00:00
 isnews: true
 noindex:
-updated: 2020-05-14 09:40:00
+updated: 2020-05-14 12:40:00
 tags:
 - 即时新闻
 - 期末考试
@@ -38,10 +38,10 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 ![邮件发送结果页的截图](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/mail_sent.png)
 
 
-还有同学在线上发起问卷投票，调查同学们对考试时间及形式的态度。在截至13日20时的结果中，大部分参与的同学更倾向于在6月份进行“考查”。对于需要“考试”的课程，希望6月份进行考试的同学相比希望9月份考试的同学多，但不及“考查”部分的结果悬殊。
+还有同学在线上发起问卷投票，调查同学们对考试时间及形式的态度。在截至13日16时的结果中，大部分参与的同学更倾向于在6月份进行“考查”。对于需要“考试”的课程，希望6月份进行考试的同学相比希望9月份考试的同学多，但不及“考查”部分的结果悬殊。
 ![](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/survey_1.png)
 ![](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/survey_2.png)
-![](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/survey_3.png)
+*统计报告原件以PDF形式分发，可通过下方“相关文件”中的链接查看。*
 
 
 ## 相关文件
@@ -51,6 +51,8 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 - [南方科技大学：2019-2020学年春季学期期末考试方案（教务长办公室）](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-13-2019_2020学年春季学期期末考试方案（教务长办公室）.pdf) (PDF, 632K)
 
 - [联名信：《期末考试方案矛盾总结（整理版本）》](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-14-期末考试方案矛盾总结（整理版本）.pdf) (PDF, 174K)
+
+- [期末考试方案意愿的统计结果](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-13-关于期末考试方案意愿的统计结果.pdf) (PDF, 458K)
 
 ## 附件：联名信全文
 
