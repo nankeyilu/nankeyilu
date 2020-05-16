@@ -3,7 +3,7 @@ title: 第三次学生议事会暨期末考核专题讨论会文字转录
 date: 2020-05-16 17:30:00
 isnews: true
 noindex:
-updated:
+updated: 2020-05-16 18:00:00
 tags:
 - 即时新闻
 - 学生议事会
@@ -351,6 +351,12 @@ uuid: 1fcf9fc6-352b-41d4-864e-f1a31327407d
 
 ## 附件
 - [本次会议在Bilibili直播间中的弹幕](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-16-第三次学生议事会暨期末考核专题讨论会-弹幕.pdf)
+
+- 本次会议的屏幕录制（来自[Bilibili@Iydon](https://space.bilibili.com/354576498)）
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=668131963&bvid=BV1aa4y1i7Qr&page=1&as_wide=1&high_quality=1&danmaku=1" frameborder="no" scrolling="no" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" allowfullscreen referrerpolicy="no-referrer" importance="low" loading="lazy"></iframe>
+</div>
+
 
 ## 相关阅读
 - [学生递交联名信，期望教工部修改期末考核方案](/2020/05/14/students-sign-petition-for-final-policy/)
