@@ -3,7 +3,7 @@ title: 学生递交联名信，期望教工部修改期末考核方案
 date: 2020-05-14 08:00:00
 isnews: true
 noindex:
-updated: 2020-05-15 18:30:00
+updated: 2020-05-25 22:00:00
 tags:
 - 即时新闻
 - 期末考试
@@ -63,6 +63,16 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 ![教工部回复](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/踢皮球2.png)
 
 还有同学发现，每一份与期末考试安排有关的文件都提到了“经第192次校长办公会决定”，但没有任何文件提到了上述校长办公会上讨论的具体内容。他们希望学校能够尽快公开“第192次校长办公会”的会议内容，以便同学更加深入了解相关的考试政策。
+
+## 5月25日22:00更新
+
+在QQ“期末考核方案”交流群中，同学们不满教学工作部至今仍未公布非毕业年级的详细期末考试安排。他们起草另一封联名信，希望教学工作部部能够尽快确定非毕业年级的期末安排。
+
+![“期末考核方案”群群主发布的QQ空间说说](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/qzone-post-2.png)
+
+![联名信草稿（部分）](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/petition2-draft1.png)
+
+*由于相关文档链接涉及个人隐私，南科一路不会在在联名信起草完成前将其公开在新闻中。*
 
 
 ## 相关文件
