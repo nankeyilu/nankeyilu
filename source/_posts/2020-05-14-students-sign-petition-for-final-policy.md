@@ -3,7 +3,7 @@ title: 学生递交联名信，期望教工部修改期末考核方案
 date: 2020-05-14 08:00:00
 isnews: true
 noindex:
-updated: 2020-05-25 22:00:00
+updated: 2020-05-26 18:00:00
 tags:
 - 即时新闻
 - 期末考试
@@ -70,9 +70,13 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 
 ![“期末考核方案”群群主发布的QQ空间说说](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/qzone-post-2.png)
 
-![联名信草稿（部分）](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/petition2-draft1.png)
+![联名信内容](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/petition2.png)
 
-*由于相关文档链接涉及个人隐私，南科一路不会在在联名信起草完成前将其公开在新闻中。*
+## 5月26日18:00更新
+
+据悉，“期末考核方案”交流群的群主收到了教学工作部的回复邮件。在邮件中，教工部建议同学向负责期末考试安排的樊慧莉老师咨询。
+
+![教工部回信（5月26日）](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/tao-reply-0526.png)
 
 
 ## 相关文件
@@ -175,3 +179,4 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 >- 北京大学：[链接](http://news.pku.edu.cn/xwzh/621dc034324e4814bdfc1f743582687b.htm) 本学期本科生课程增加一次退课
 >
 >- 山东大学云考试系统 [https://www.bkjx.sdu.edu.cn/info/1011/29746.htm](https://www.bkjx.sdu.edu.cn/info/1011/29746.htm)
+
