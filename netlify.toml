@@ -38,3 +38,8 @@
     cache-control = '''
     max-age=86400,
     s-maxage=600'''
+
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
