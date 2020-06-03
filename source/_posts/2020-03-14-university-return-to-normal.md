@@ -35,3 +35,6 @@ uuid: 367b8f74-6a2c-468e-a19d-e1b4bb249ed1
 同日，校园服务办公室也向全体师生发送邮件，表示学生餐厅、荔园餐厅和教工餐厅将重新开放堂食，但仍需遵守一人一桌、相隔一米以上的规定。
 
 封面图片/第一教学楼，摄于3月14日/[南方科技大学宣传部](https://newshub.sustech.edu.cn/zh/wp-content/uploads/2020/03/2020031009354563.jpg)
+
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}

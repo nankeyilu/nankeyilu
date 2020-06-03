@@ -49,5 +49,7 @@ Blackboard系统是南方科技大学目前使用的线上教学系统之一，�
 
 有同学于3月18日询问学校系统的故障原因，教学工作部老师在邮件中回复称，本次事故是由于存放Blackboard数据的[3par](https://www.hpe.com/us/en/storage/3par.html)存储系统故障所致。他还在回复中说：“因访问量过大，一个卷的IO无法满足所有虚拟机的需求，出现性能抖动。昨晚（3月17日）恢复了bb，但硬件问题没有完全搞定，今天找了硬件厂家最牛的工程师过来。”
 
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}
 
 (封面图/出现错误的的Blackboard界面/素材取自校园信息交流群)

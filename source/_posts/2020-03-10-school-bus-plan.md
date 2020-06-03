@@ -28,4 +28,7 @@ uuid: e635efc1-461c-4052-881d-7daba6cc0703
 
 新的校巴运行方案将于2020年5月15日生效。
 
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}
+
 (封面图/即将进站的校园巴士/Wikimedia Commons)

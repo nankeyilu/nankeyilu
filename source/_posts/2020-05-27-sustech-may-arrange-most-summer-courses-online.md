@@ -32,3 +32,6 @@ uuid: 9c4b30fc-ecfc-4f32-98db-eb2b170f7dc4
 根据邮件，**夏季学期的“选课周”将定在6月15日至19日。**
 
 ![相关邮件](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-arrange-most-summer-course-online/email.png)
+
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}

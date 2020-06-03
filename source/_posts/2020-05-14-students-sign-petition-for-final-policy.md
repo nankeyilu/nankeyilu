@@ -87,6 +87,9 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 - [期末考试方案意愿的统计结果](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-13-关于期末考试方案意愿的统计结果.pdf) (PDF, 458K)
 - [致教工部的联名信及教工部的回信.pdf](https://cdn.nanke.suste.ch/doc/nanke/2020/05/2020-05-14-南方科技大学学生致教工部的联名信及教工部的回信.pdf) (PDF, 161K)
 
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}
+
 ## 附件：联名信全文
 
 > # 前言
@@ -179,4 +182,3 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 >- 北京大学：[链接](http://news.pku.edu.cn/xwzh/621dc034324e4814bdfc1f743582687b.htm) 本学期本科生课程增加一次退课
 >
 >- 山东大学云考试系统 [https://www.bkjx.sdu.edu.cn/info/1011/29746.htm](https://www.bkjx.sdu.edu.cn/info/1011/29746.htm)
-

@@ -357,6 +357,8 @@ uuid: 1fcf9fc6-352b-41d4-864e-f1a31327407d
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=668131963&bvid=BV1aa4y1i7Qr&page=1&as_wide=1&high_quality=1&danmaku=1" frameborder="no" scrolling="no" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" allowfullscreen referrerpolicy="no-referrer" importance="low" loading="lazy"></iframe>
 </div>
 
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}
 
 ## 相关阅读
 - [学生递交联名信，期望教工部修改期末考核方案](/2020/05/14/students-sign-petition-for-final-policy/)

@@ -37,6 +37,8 @@ uuid: 09923187-fdab-497d-be80-b15b044d9228
 ![公众号的更名记录/微信公众号平台](https://cdn.nanke.suste.ch/img/2020/03/sustech-weekly-change-name.png)
 “南科周末”公众号于4月4日更名为“高校周末”，并删除先前的全部文章。
 
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}
 
 ## 附件：《南科周末》所删除的部分文章：
 ### 鲜评：

@@ -33,3 +33,6 @@ uuid: a5901eed-243c-4ae3-aa6f-fe960503bb18
 会议同时提到,学生可以通过南方科技大学学生会[公共邮箱](mailto:sustcsu@mail.sustech.edu.cn)和[问卷星](https://wj.qq.com/s2/5086755/f393/)进行意见反馈。
 
 也有同学认为，学校并未正面回答部分问题，并且议事会仍缺乏有效的跟进与追责机制。
+
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}

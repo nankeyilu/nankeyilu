@@ -32,3 +32,6 @@ uuid: a744abe4-3765-4910-960b-d8ba1a11418e
 ![南科大中心效果图/南方科技大学](https://cdn.nanke.suste.ch/img/project/sustech-plan/img/phase2/学院/p2-academic-2.jpg)
 
 公告还提到上述门店的租金为每月每平米不低于60元，每两年递增一次（5%-10%），与先前与星巴克签订的合同类似。同时，本次合同所订立的经营服务期限为3年。
+
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}

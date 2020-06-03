@@ -27,4 +27,7 @@ uuid: 4d2726a5-feb0-46ad-9a7f-af0c0ae88b0d
 
 国际合作部还提到，大学的秋季连培和交流项目仍在接受申请，国际合作部将视情况调整。
 
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}
+
 封面图片/第一教学楼的休闲座椅，摄于2019年11月/[南方科技大学宣传部](https://newshub.sustech.edu.cn/wp-content/uploads/2019/11/DSC03862.jpg)

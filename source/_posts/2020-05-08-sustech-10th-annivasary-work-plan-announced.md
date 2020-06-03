@@ -28,7 +28,10 @@ uuid: a162f610-597c-4677-ab7f-abf30ed7c9de
 
 上述文件中未有见到[传闻中“大学将会邀请郎朗至南科大演出”](https://mp.weixin.qq.com/s/YKK7BkLfkcQWCJnggeX0Vw)<sup>**[1]**</sup>的内容。有关邀请艺术家至大学演出的计划可能尚未敲定。
 
-相关文件：
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}
+
+## 相关文件：
 - [南科大〔2020〕61号 关于印发《南方科技大学十周年校庆工作方案》的通知](https://cdn.nanke.suste.ch/doc/nanke/2020/04/%E3%80%90%E4%B8%AD%E8%8B%B1%E6%96%87%E3%80%91%E5%8D%97%E7%A7%91%E5%A4%A7%E3%80%902020%E3%80%9161%E5%8F%B7%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%8D%81%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%A1%88%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5.pdf) （PDF 15.3MB）
 
 **[1]** [钢琴家郎朗，要来南科大，开专场音乐会？](https://mp.weixin.qq.com/s/YKK7BkLfkcQWCJnggeX0Vw) - 南科周末

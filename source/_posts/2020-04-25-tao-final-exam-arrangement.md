@@ -28,3 +28,6 @@ uuid: e5318f34-71c9-45ee-bbef-ddd9242910b2
 ![邮件截图](https://cdn.nanke.suste.ch/img/2020/04/tao-final-exam-arrangement/email-screenshot.png)
 
 笔者翻查了深圳其他高校的期末考试方案。其中，[深圳大学](https://t.me/SZU_GGNews/207)要求任课老师为课程期末考试准备A、B、C三套题，分别予结业生、毕业生和其他学生考试。不过，其目前只安排了毕业生和结业生的期末考试，其他年级学生的考试时间仍未确定。[香港中文大学（深圳）](https://www.lgulife.com/bbs/post/1149/)则让教授自行决定期末考试的组织形式，有毕业班同学线下考试，其他同学线上考试 / 全体同学线上考试 / 毕业班同学5月线下考试，其他同学8月份线下考试三种可选。另外[有同学](https://www.lgulife.com/bbs/post/1127/) [组织](https://www.lgulife.com/bbs/post/1136/)向校方请愿调整考试安排及成绩评定方式。
+
+{% set c_index = "4" %}
+{% include "credibility-index.swig" %}

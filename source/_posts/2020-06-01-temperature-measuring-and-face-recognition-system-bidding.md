@@ -45,3 +45,6 @@ uuid: 52365a46-145b-491a-8928-4dfde1dd6c2d
 - [安全、健康与环境办公室立式人脸识别测温一体机自行采购结果公告](https://biddingoffice.sustc.edu.cn/tender/news/id/5140/pid/2)
 - [天盛物联：热成像人脸识别测温设备](http://www.ts-iot.com/product-2/44.html)
 - [大学拟强推出入宿舍人脸识别，同学于人民网留言投诉](2020/05/16/face-recognition-complaint/)
+
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}

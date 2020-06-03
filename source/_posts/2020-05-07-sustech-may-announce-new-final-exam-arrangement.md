@@ -34,6 +34,9 @@ uuid: fc9a1e88-a341-4c46-8ead-166b62dd5fa1
 
 ![期末考试安排的相关PPT/知情人士供图，南科一路整理](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/leak_ppt.png)
 
+{% set c_index = "3" %}
+{% include "credibility-index.swig" %}
+
 ## 5月7日17:00更新
 
 疑似具有官方背景的“南科先知”公众号[在今日16:10报道了此消息](https://mp.weixin.qq.com/s/FpRC9pmuYeEB3AQfVx1XoQ)。
@@ -54,3 +57,5 @@ uuid: fc9a1e88-a341-4c46-8ead-166b62dd5fa1
 
 ![Blackboard系统上的考核方式意愿调查/大学信息交流群](https://cdn.nanke.suste.ch/img/2020/05/sustech-may-announce-new-plan-for-final-exam/survey_on_blackboard.png)
 
+{% set c_index = "5" %}
+{% include "credibility-index.swig" %}
