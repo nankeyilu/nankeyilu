@@ -3,6 +3,9 @@
   publish = "public/"
   functions = "functions/"
 
+[build.environment]
+  TZ = "Asia/Shanghai"
+
 # For content other than static assets
 [[headers]]
   for = "/*"
