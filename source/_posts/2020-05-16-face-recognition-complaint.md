@@ -3,7 +3,7 @@ title: 大学拟强推出入宿舍人脸识别，同学于人民网发起投诉
 date: 2020-05-16 12:30:00
 isnews: true
 noindex:
-updated: 2020-05-26 23:30:00
+updated: 2020-06-07 09:00:00
 tags:
 - 即时新闻
 - 人脸识别
@@ -58,6 +58,15 @@ uuid: 34cca3f3-7b05-4ca9-943d-20b970356fee
 ![疑似大学对目前人脸识别政策的回应](https://cdn.nanke.suste.ch/img/2020/05/face-recognition-complaint/univ-response1.png)
 
 {% set c_index = "3" %}
+{% include "credibility-index.swig" %}
+
+## 6月7日9:00更新
+
+微信公众号你科周末发布一则消息称[“综合信息安全、法务等方面考虑，大学研究生院决定，不强制在宿舍区域推行人脸识别。”](https://mp.weixin.qq.com/s/HT607RgPJMCaEKaUmKFtAQ)，但未知大学是否会更改进出本科生宿舍，校门的人脸识别安排。
+
+同日，南科解密也[下线](https://t.me/sustechleaks/55)了所有版本的“智慧校园bot”。
+
+{% set c_index = "4" %}
 {% include "credibility-index.swig" %}
 
 ## 相关网页
