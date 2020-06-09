@@ -3,7 +3,7 @@ title: 学生递交联名信，期望教工部修改期末考核方案
 date: 2020-05-14 08:00:00
 isnews: true
 noindex:
-updated: 2020-05-26 18:00:00
+updated: 2020-06-09 12:00:00
 tags:
 - 即时新闻
 - 期末考试
@@ -78,6 +78,11 @@ QQ群内的代表于5月14日凌晨将上述联名信发送至校长、教务长
 
 ![教工部回信（5月26日）](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/tao-reply-0526.png)
 
+## 6月9日12:00更新
+
+大学近期向任课教师发送邮件，向老师明确本学期期末考试的成绩录入方式。邮件中提到，**大学教工部已禁用非毕业班学生的成绩录入功能**，并要求教师在6月30日前录入毕业班成绩并提交审核。
+
+![邮件内容](https://cdn.nanke.suste.ch/img/2020/05/students-sign-petition-for-final-policy/mail2.png)
 
 ## 相关文件
 
