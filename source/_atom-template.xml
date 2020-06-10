@@ -8,17 +8,17 @@
   <link href="{{ url | uriencode }}"/>
   <updated>{{ posts.first().updated.toISOString() }}</updated>
   <id>{{ url | uriencode }}</id>
-  {% if config.author %}
-  <author>
-    <name>{{ config.author }}</name>
-    {% if config.email %}<email>{{ config.email }}</email>{% endif %}
-  </author>
-  {% endif %}
   <generator uri="https://hexo.io/">Hexo</generator>
   {% for post in posts.toArray() %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="{{ post.permalink | uriencode }}"/>
+    {% if post.author %}
+    <author>
+      <name>{{ post.author }}</name>
+      {% if post.email %}<email>{{ post.email }}</email>{% endif %}
+    </author>
+    {% endif %}
     <id>urn:uuid:{{ post.uuid }}</id>
     <published>{{ post.date.toISOString() }}</published>
     <updated>{{ post.updated.toISOString() }}</updated>
