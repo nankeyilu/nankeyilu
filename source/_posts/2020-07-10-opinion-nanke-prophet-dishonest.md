@@ -3,7 +3,7 @@ title: 引导舆论别走极端，诚信的底线要守住
 date: 2020-07-10 12:00:00
 isnews: false
 noindex:
-updated:
+updated: 2020-07-10 19:00:00
 tags:
 - 南科先知
 cover_img: https://cdn.nanke.suste.ch/img/2020/07/editorial-on-nanke-prophet/banner.png
@@ -17,8 +17,7 @@ author: 妮仲平
 author_url: https://cdn.nanke.suste.ch/img/nanke-assets/author_avatar/anonymous.png
 categories:
 - [广场]
-- [社论]
-permalink: editorial-on-nanke-prophet
+permalink: opinion-nanke-prophet-dishonest
 uuid: 2fb709b3-758a-48f2-ae9c-441090e76b61
 ---
 
