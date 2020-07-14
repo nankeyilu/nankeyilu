@@ -110,6 +110,15 @@ image_caption:
   enable: true #false to disable
   class_name:
 
+all_minifier: true
+
+image_minifier:
+  enable: false
+
+html_minifier:
+  enable: true
+  ignore_error: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
