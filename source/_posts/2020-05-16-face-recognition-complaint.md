@@ -62,7 +62,7 @@ uuid: 34cca3f3-7b05-4ca9-943d-20b970356fee
 
 ## 6月7日9:00更新
 
-微信公众号你科周末发布一则消息称[“综合信息安全、法务等方面考虑，大学研究生院决定，不强制在宿舍区域推行人脸识别。”](https://mp.weixin.qq.com/s/HT607RgPJMCaEKaUmKFtAQ)，但未知大学是否会更改进出本科生宿舍，校门的人脸识别安排。
+微信公众号你科周末发布一则消息称[“综合信息安全、法务等方面考虑，大学研究生院决定，不强制在宿舍区域推行人脸识别。”](https://mp.weixin.qq.com/s/HT607RgPJMCaEKaUmKFtAQ)*（原文已被删除，[原文存档）](https://cdn.nanke.suste.ch/html/archive/niko-weekly/2020-06-07-%E7%A0%94%E7%A9%B6%E7%94%9F%E9%99%A2%EF%BC%9A%E4%B8%8D%E5%BC%BA%E5%88%B6%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8C%BA%E5%9F%9F%E6%8E%A8%E8%A1%8C%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB--7lmR0IEaGH94LpX2lA6AQ.html)*，但未知大学是否会更改进出本科生宿舍，校门的人脸识别安排。
 
 同日，南科解密也[下线](https://t.me/sustechleaks/55)了所有版本的“智慧校园bot”。
 
