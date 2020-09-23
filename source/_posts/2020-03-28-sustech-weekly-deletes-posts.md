@@ -42,10 +42,10 @@ uuid: 09923187-fdab-497d-be80-b15b044d9228
 
 ## 附件：《南科周末》所删除的部分文章：
 ### 鲜评：
-* [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](/2020/03/23/nanke-weekly-archive-01-bicycle-lane-blocked-by-pedestrians/)
-* [转载：群组、空间及论坛：南科大“网络治校”现状及反思](/2020/03/23/nanke-weekly-archive-02-manage-sustech-online)
-* [转载：SUSTC和SUSTech有什么区别？这是个好问题。](/2020/03/23/nanke-weekly-archive-04-sustech-or-sustc)
-* [转载：从0到1的阵痛：南科大突然面向公众全面开放](/2020/03/23/nanke-weekly-archive-06-sustech-open-to-public)
+* [转载：南科大自行车道被行人侵占，高等学府竟无计可施？](http://archive.vn/SyZuy)
+* [转载：群组、空间及论坛：南科大“网络治校”现状及反思](http://archive.vn/ISjjX)
+* [转载：SUSTC和SUSTech有什么区别？这是个好问题。](http://archive.vn/zbC9m)
+* [转载：从0到1的阵痛：南科大突然面向公众全面开放](http://archive.vn/bDCLo)
 
 ### 南科新鲜事：
 * [南科幼儿园开芯片课 大学生不懂慧园英文 | 南科新鲜事第1期](https://archive.is/74EaG)
