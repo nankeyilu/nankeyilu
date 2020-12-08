@@ -16,6 +16,6 @@ date: 2020-03-11 12:06:48
 
 曾有同学发表过一篇文章[《我们是南科人，我们改变不了南科大》](https://web.archive.org/web/20190405160630/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-gai-bian-bu-le-nan-ke-da)。翌日，又有同学发表了[《我们是南科人，我们能改变南科大》](https://web.archive.org/web/20190405160654/https://www.sustech.wtf/xin-qin-shi-ban-qian-wen-ti/wo-men-shi-nan-ke-ren-wo-men-neng-gai-bian-nan-ke-da)，文章写道：“18级的同学们大概没听说过曾经学生们为了可能推出的断网政策和学校争取的故事，也许17级的同学们也没有听过，但总有人记得，有我记得”。这个网站的（一个）目标，就是让更多人 **记得** 。为了避免重蹈两位前辈的覆辙，这个网站目前托管于GitHub，以求一定的健壮性。您可以前往GitHub浏览[它的项目页](https://github.com/nankeyilu/nankeyilu)，欢迎提交Pull Request😊
 
-欢迎各种稿件，如果您想投稿，烦请您将稿件发送至 nankeyilu<在>protonmail.com 。平时学业繁忙，回复可能不及时，但会定期查看。
+欢迎各种稿件，如果您想投稿，烦请您将稿件发送至 nankeyilu@protonmail.com 或 nankeyilu@gmail.com 。平时学业繁忙，回复可能不及时，但会定期查看。
 
 我会尽力使本站的新闻报道准确、客观。如果您有任何问题、意见或是建议，欢迎在GitHub提出您的Issue，或者通过上面的邮箱联系我。
