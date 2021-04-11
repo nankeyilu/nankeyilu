@@ -33,5 +33,7 @@ uuid: aa10d070-886d-449a-af84-718098a7c18c
 在本系列的文章发布后，南科一路将会在下方列出这些文章。
 
 - [南科大主页：历史那么远，官网这么近](/2020/08/04/niko-museum-ten-websites-sustc-homepage/)
+- [信息类网站专题：可用信息那么远，整合获取这么近](/2020/10/10/niko-museum-ten-websites-information-websites/)
+- [南科十年：守住历史的拼图](/2021/04/11/ten-years-of-sustc/)
 
 *注：本项目的灵感来源于香港中文大学UEGC 2634课程“Media and Social Development in Mainland China”中的“互联网考古”部分。*
